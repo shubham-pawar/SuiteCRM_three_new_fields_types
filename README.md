@@ -17,7 +17,7 @@ You can use `Studio` for addition the fields to your system or custom module.
 
 ## Testing
 
-The package was tested in SuiteCRM versions 7.10.x and 7.11.x . The package can be adopted to old versions, including SugarCRM.
+The package was tested in SuiteCRM versions 7.10.x, 7.11.x, and 7.14.5. The package can be adopted to old versions, including SugarCRM.
 
 ## Using
 
